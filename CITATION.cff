@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Afro PhD Project"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Makanda"
+    given-names: "Aymar"
+    affiliation: "McGill University"
+date-released: 2026-08-24
+url: "https://github.com/aymar73/afro-phd-project"
+repository-code: "https://github.com/aymar73/afro-phd-project"

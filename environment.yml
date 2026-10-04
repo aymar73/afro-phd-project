@@ -1,0 +1,17 @@
+name: afro-phd
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip:
+    - linearmodels
+    - scikit-learn
+    - -e .   # This installs your package in "editable" mode

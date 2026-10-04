@@ -82,4 +82,4 @@ A key innovation is the use of **Kolmogorov-Arnold Networks (KAN)** as a *discov
 
 
 ## Contact
-Aymar Makanda - aymar.makanda@
+Aymar Makanda - aymar.makanda@afroproject.africa
